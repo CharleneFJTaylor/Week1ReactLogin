@@ -1,0 +1,41 @@
+h3 {
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    grid-gap: 10px;
+    list-style: none;
+    text-align: center;
+    width: 70vw;
+    justify-content: end;
+    margin-right: 2rem;
+}
+
+.form-group {
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    grid-gap: 10px;
+    list-style: none;
+    text-align: center;
+    width: 70vw;
+    justify-content: end;
+    margin-right: 2rem;
+}
+
+.form-check {
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    grid-gap: 10px;
+    list-style: none;
+    text-align: center;
+    width: 70vw;
+    justify-content: end;
+    margin-right: 2rem;
+}
+
+.btn {
+    background-color: rgb(110, 94, 254);
+    text-align: center;
+    margin-right: 20rem;
+    grid-template-columns: repeat(5, auto);
+    grid-gap: 10px;
+}
+/*I cannot center the submit button, any suggestion would be appreciated*/
